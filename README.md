@@ -5,6 +5,6 @@
 - 📫 How to reach me:
      - LinkedIn: https://ke.linkedin.com/in/isaac-muendo
      - Instagram: https://www.instagram.com/iamuendo/
-     - Twitter: https://twitter.com/iamuendo
+
 
 
