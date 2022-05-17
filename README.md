@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Isaac Muendo
-- 👀 I’m interested in web app development
-- 🌱 I’m currently learning Python, Javascript and SQL.
-- 💞️ I’m looking to collaborate on some open source projects
-- 📫 How to reach me:
-     - LinkedIn: https://ke.linkedin.com/in/isaac-muendo
-     - Instagram: https://www.instagram.com/iamuendo/
+# 👋 Hi, I’m Isaac Muendo
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=iamuendo&show_icons=true&theme=dracula" />
+
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamuendo&layout=compact" />
+
+
+<img align="left" alt="Html" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img align="left" alt="Css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+<img align="left" alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+<img align="left" alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+
 
 
 
